@@ -6,8 +6,8 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Vladislav Alexeyev <vlad@alexeyev.me>",
+  "license": "MIT",
   "dependencies": {
     "dotenv": "^8.2.0",
     "puppeteer": "^8.0.0"
