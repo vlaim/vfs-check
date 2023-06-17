@@ -2,12 +2,14 @@
 
 [![Software License][ico-license]](LICENSE.md)
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/vlaim)
-
 A tiny puppeteer script to check availability of visa in vfs global system.
 Tested for [Polish visa application in Saint Petersburg, RU](https://www.vfsglobal.com/Poland/Russia/SaintPetersburg/track-application1.html)
 
 Requires [Node.js](https://nodejs.org/en/download/) installed on your computer locally. 
+
+# Disclamer
+
+**Please not that this script is not for booking an available slot in VFS, but for checking the status of existing one.**
 
 ## Usage 
 
